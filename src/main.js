@@ -100,6 +100,7 @@ async function renderAllImages(event) {
         ],
       });
       loaderContainer.classList.add('hidden');
+      loadMoreBtn.classList.add('hidden');
       return;
     }
 
