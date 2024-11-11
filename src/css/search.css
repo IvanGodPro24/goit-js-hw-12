@@ -73,6 +73,10 @@
   margin-top: 200px;
 }
 
+.loader-under-container {
+  margin-top: 50px;
+}
+
 .loader {
   width: 64px;
   height: 64px;
@@ -103,4 +107,9 @@
     height: 64px;
     transform: rotate(360deg);
   }
+}
+
+.load-more-btn {
+  display: block;
+  margin: 30px auto;
 }
